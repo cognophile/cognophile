@@ -13,7 +13,7 @@
 <p align="center"><sup>Powered by caffeine™️</sup></p>
 
 <p align="center">
-   Enjoying my contributions and wish say thanks, then a caffeine donation would be hugely appreciated!
+   Enjoying my contributions and wish to say thanks? A caffeine donation would be hugely appreciated!
 </p>
 <p align="center">
    <a href="https://www.buymeacoffee.com/cognophile"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cognophile&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
