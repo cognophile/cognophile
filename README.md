@@ -5,7 +5,7 @@
 <p>
 
 <p align="center">
-  <a href="https://cognophile.webflow.io/">🌐 website</a> | <a href="https://twitter.com/cognophile">🐦 @cognophile</a> | <a href="https://cognophile.hashnode.dev">📝 hashnode</a> | <a href="https://dev.to/cognophile">👨‍💻 dev</a> | <a href="https://stackoverflow.com/users/5012644/cognophile">📚 stackoverflow</a>
+  <a href="https://cognophile.webflow.io/">🌐 website</a> | <a href="https://twitter.com/cognophile">🐦 @cognophile</a> | <a href="https://mastodon.social/@cognophile">🐘 @cognophile@mastodon.social</a> | <a href="https://cognophile.hashnode.dev">📝 hashnode</a> | <a href="https://dev.to/cognophile">👨‍💻 dev</a> | <a href="https://stackoverflow.com/users/5012644/cognophile">📚 stackoverflow</a>
 </p>
 
 <p align="center">Your friendly neighbourhood Software Engineer. Always learning; often coding.</p>
